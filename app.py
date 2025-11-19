@@ -186,7 +186,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("Movie Recommender")
+st.title("Movie Mixer")
 st.write("Type movie names and select the correct ones:")
 
 movie_titles = movies['title'].tolist()
